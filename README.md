@@ -37,6 +37,6 @@ Images\LocalStorage.PNG
 
 In this screenshot you can in the console.log you can see the local storage showing the "test"
 
-Live App:
+Live App:https://treymbach.github.io/DayScheduler/
 
  
